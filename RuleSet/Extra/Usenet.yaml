@@ -1,0 +1,4 @@
+payload:
+  # Usenet Providers
+  - DOMAIN-SUFFIX,newshosting.com,
+  - DOMAIN-SUFFIX,newsgroup.ninja,

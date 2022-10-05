@@ -1,0 +1,8 @@
+payload:
+  # > Plex
+  # Plex Media Server
+  - DOMAIN-SUFFIX,plex.tv
+  # Specific Server Provider
+  - DOMAIN,plex.moeI.ml,DIRECT
+
+  # > Emby
