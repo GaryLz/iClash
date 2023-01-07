@@ -1,0 +1,4 @@
+proxies:
+  - {name: 🇨🇳 台湾, server: hinet.rickandmorty1.ca, port: 25001, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 Taiwan - 1, server: 120.240.102.7, port: 50014, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 Taiwan - 2, server: 223.112.227.24, port: 50014, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

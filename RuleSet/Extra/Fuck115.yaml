@@ -1,0 +1,8 @@
+payload:
+  # > Fuck 115
+  - DOMAIN,115.com,115proxy
+  - DOMAIN,webapi.115.com,115proxy
+  - DOMAIN,proapi.115.com,115proxy
+  - DOMAIN,aps.115.com,115proxy
+  - DOMAIN,v.anxia.com,115proxy
+  - DOMAIN,mitm.it,115proxy

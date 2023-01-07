@@ -1,0 +1,39 @@
+proxies:
+  - {name: 距离下次重置剩余：12 天, server: usa.daleng.org, port: 25000, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: Have a nice day Sweetheart :), server: usa.daleng.org, port: 25000, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: By Dalhousie University, server: 103.152.221.44, port: 25000, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇨🇳 台湾, server: hinet.rickandmorty1.ca, port: 25001, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇹 意大利, server: 213.109.192.98, port: 60000, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 英國, server: 85.239.63.119, port: 60000, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 马尼拉, server: 165.154.242.189, port: 60000, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 USA, server: usa.daleng.org, port: 25001, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡, server: 165.154.236.28, port: 60000, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本, server: 103.140.136.169, port: 55555, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港電訊 - 打機神綫, server: hkt.rickandmorty1.ca, port: 59998, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 1, server: 120.240.102.7, port: 50012, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 2, server: 223.112.227.24, port: 50012, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 3, server: ct.soberrealism.ca, port: 50012, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 4, server: 120.240.102.7, port: 50013, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 5, server: 223.112.227.24, port: 50013, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 6, server: ct.soberrealism.ca, port: 50013, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 7, server: 120.240.102.7, port: 50019, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 8, server: 223.112.227.24, port: 50019, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HongKong - 9, server: 120.240.102.7, port: 64444, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 Taiwan - 1, server: 120.240.102.7, port: 50014, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 Taiwan - 2, server: 223.112.227.24, port: 50014, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US - 1, server: 120.240.102.7, port: 50015, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 US - 2, server: 223.112.227.24, port: 50015, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Japan - 1, server: 120.240.102.7, port: 50016, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Japan - 2, server: 223.112.227.24, port: 50016, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: Philippine - 1, server: 120.240.102.7, port: 50017, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: Philippine - 2, server: 223.112.227.24, port: 50017, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 Singapore - 1, server: 120.240.102.7, port: 50018, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 Singapore - 2, server: 223.112.227.24, port: 50018, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇹 Italy - 1, server: 223.112.227.24, port: 50020, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇹 Italy - 2, server: 120.240.102.7, port: 50020, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 UK - 1, server: 223.112.227.24, port: 50021, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 UK - 2, server: 120.240.102.7, port: 50021, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Japan SS, server: 103.140.136.169, port: 25000, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇯🇵 Japan SS - 1, server: 120.240.102.7, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇯🇵 Japan SS - 2, server: 223.112.227.24, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇯🇵 Japan SS - Game Route, server: 42.157.160.120, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}

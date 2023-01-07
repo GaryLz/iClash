@@ -1,0 +1,8 @@
+proxies:
+  - {name: 🇯🇵 日本, server: 103.140.136.169, port: 55555, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Japan - 1, server: 120.240.102.7, port: 50016, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Japan - 2, server: 223.112.227.24, port: 50016, type: vmess, uuid: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Japan SS, server: 103.140.136.169, port: 25000, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇯🇵 Japan SS - 1, server: 120.240.102.7, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇯🇵 Japan SS - 2, server: 223.112.227.24, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
+  - {name: 🇯🇵 Japan SS - Game Route, server: 42.157.160.120, port: 50005, type: ss, cipher: chacha20-ietf-poly1305, password: 1bf2cb70-9fde-4b60-8df7-29e932fdf763, udp: true}
